@@ -1,8 +1,8 @@
 # Compound CAD
 
-![Compound CAD Logo](https://github.com/CompoundCAD/CompoundCAD/assets/170032786/5f47ac5d-d988-459f-904c-0bc7987f0395)
+<img src="https://github.com/CompoundCAD/CompoundCAD/assets/170032786/5f47ac5d-d988-459f-904c-0bc7987f0395" alt="Compound CAD Logo" style="width:200px;">
 
-Remote CAD + FreeCAD/AI Consulting
+## Remote CAD + FreeCAD/AI Consulting
 
 World leading, cost-effective CAD solutions with industry experience & client satisfaction.
 
@@ -36,11 +36,21 @@ Tap into the future of CAD with AI consulting. Our specialized service offers in
 
 Contact for more info
 
+### Basic Support
+This tier covers simple questions and minor issues that can be resolved quickly via email.
+
+$25 USD per email
+
+### Advanced Support
+This tier is for more complex issues, custom solutions, detailed troubleshooting, and in-depth assistance.
+
+$100 USD per email
+
 ## Connect with us
 Schedule a session with our experienced team today.
 
 ### Contact Us
-- Email: [info@compoundcad.com]
-- [[CompoundCAD.com](https://compoundcad.com/)]
+- [Email us](info@compoundcad.com)
+- [CompoundCAD.com](https://compoundcad.com/)
 
 © 2024 Compound CAD
