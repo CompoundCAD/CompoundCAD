@@ -2,7 +2,7 @@
 
 <img src="https://github.com/CompoundCAD/CompoundCAD/assets/170032786/5f47ac5d-d988-459f-904c-0bc7987f0395" alt="Compound CAD Logo" style="width:200px;">
 
-## Remote CAD + FreeCAD/AI Consulting
+## Remote CAD + ERP Integration
 
 World leading, cost-effective CAD solutions with industry experience & client satisfaction.
 
@@ -10,7 +10,7 @@ Fully based in Windsor, Ontario, Canada. Priced in USD.
 
 Innovate with precision, design with excellence!
 
-From expert remote CAD services and tailored FreeCAD consulting to comprehensive CAD training and cutting-edge AI integration, our Windsor, Ontario-based team delivers top-tier solutions to elevate your projects.
+From expert remote CAD services and tailored FreeCAD consulting to ERPNext integration and personalized CAD training, our Windsor, Ontario-based team delivers top-tier solutions to elevate your projects.
 
 Experience efficiency, precision, and expertise with Compound CAD today.
 
@@ -26,25 +26,27 @@ Explore tailored FreeCAD consulting and custom development services. Our Ontario
 
 Starts at $250 USD
 
+### ERPNext Integration
+Streamline your business operations with ERPNext, an affordable, open-source ERP solution.  
+- Seamless integration and customization services.  
+- Dedicated support tailored to your business needs.
+
+Contact for pricing
+
 ### CAD Training
 Empower your team with expert CAD training. Our comprehensive training programs equip individuals with the skills and knowledge needed to excel in CAD projects.
 
 Contact for pricing
 
-### AI in CAD Consulting
-Tap into the future of CAD with AI consulting. Our specialized service offers innovative AI solutions tailored to enhance your CAD projects.
-
-Contact for more info
-
-### Basic Support
-This tier covers simple questions and minor issues that can be resolved quickly via email.
-
-$25 USD per email
+### Full-Time Support System
+A robust ticket-based support system designed to meet your needs:  
+- **Clients**: Enjoy unlimited free support as part of our services.  
+- **Guests**: Access professional support starting at $25 USD per ticket.
 
 ### Advanced Support
-This tier is for more complex issues, custom solutions, detailed troubleshooting, and in-depth assistance.
+This tier is for complex issues, custom solutions, and in-depth assistance. Perfect for unique challenges that require expert attention.
 
-$100 USD per email
+$100 USD per ticket
 
 ## Connect with us
 Schedule a session with our experienced team today.
