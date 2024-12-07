@@ -24,12 +24,12 @@ Starts at $35 USD
 ### FreeCAD Consulting
 Explore tailored FreeCAD consulting and custom development services. Our Ontario-based team delivers expert guidance and solutions to elevate your FreeCAD projects.
 
-Starts at $65 USD
-
 ### ERPNext Integration
 Streamline your business operations with ERPNext, an affordable, open-source ERP solution.  
 - Seamless integration and customization services.  
 - Dedicated support tailored to your business needs.
+
+Starts at $65 USD
 
 ## Connect with us
 Schedule a session with our experienced team today.
